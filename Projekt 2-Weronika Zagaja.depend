@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1610127594 source:c:\users\weron\desktop\projekt 2-weronika zagaja\main.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<cstdlib>
+	<iomanip>
+	<windows.h>
+
